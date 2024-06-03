@@ -22,5 +22,27 @@ Aşağıdaki tablo, modellerin doğruluk, kesinlik, geri çağırma ve F-ölçü
 | GoogleNet | 0.7795   | 0.7726   | 0.7795       | 0.7751   |
 
 
+## alexnet loss ve accuracy grafiği
+
+![Model Performansı](pictures/alexnet.png)
+
+
+## vggnet loss ve accuracy grafiği
+
+![Model Performansı](pictures/vggnet.png)
+
+
+## googlenet loss ve accuracy grafiği
+
+![Model Performansı](pictures/googlenet.png)
+
+
+## resnet loss ve accuracy grafiği
+
+![Model Performansı](pictures/resnet.png)
+
+
+
+
 
 
