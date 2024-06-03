@@ -5,9 +5,9 @@ This project aims to classify crop diseases using deep learning architectures su
 
 ## Project Structure
 
--models/: Model architectures and weight files.
--results/: Results and comparison tables.
--README.md: Project description and guide.
+- `models/`: Model architectures and weight files.
+- `results/`: Results and comparison tables.
+- `README.md`: Project description and guide.
 
 ## Performans Karşılaştırması
 
